@@ -84,7 +84,6 @@ I-am BIackMamba@github
 ### 👨🏽‍💻 Workspace
 <p>
     <a href="#"><img alt="Macbook" src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white"></a>
 </p>
 
 
